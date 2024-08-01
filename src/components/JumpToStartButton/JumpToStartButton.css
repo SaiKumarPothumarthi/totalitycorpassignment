@@ -1,0 +1,28 @@
+.jump-to-start {
+    position: fixed;
+    bottom: 20px;
+    right: 600px;
+    padding: 10px;
+    background-color: #ffffff63;
+    color: #000000;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .jump-to-start:hover {
+   
+    background-color: #007bff;
+    color: #fff;
+  }
+  .para{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 5px;
+  }
+  

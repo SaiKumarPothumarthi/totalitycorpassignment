@@ -1,0 +1,23 @@
+.faqs {
+  padding: 20px;
+  background-color: rgba(137, 211, 186, 0.815);
+  border-radius: 8px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.faq-item h3 {
+  margin-top: 0;
+  color: #007BFF;
+}
+
+.faq-item p {
+  margin: 10px 0;
+  font-size: 1em;
+}

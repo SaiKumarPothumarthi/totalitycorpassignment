@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://t3.ftcdn.net/jpg/04/27/70/64/360_F_427706432_OTNX01bqkZttcIX9sht4SxvjBm6xJHEX.jpg",
+        "title": "Cozy Apartment in New York",
+        "description": "A cozy apartment in the heart of New York City.",
+        "price": 150,
+        "location": "New York",
+        "bedrooms": 2,
+        "amenities": ["WiFi", "Parking"]
+    },
+    {
+        "id": 2,
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/04/07012923/elevated-house-design3.jpg",
+        "title": "Luxury Condo in San Francisco",
+        "description": "A luxury condo with a beautiful view in San Francisco.",
+        "price": 300,
+        "location": "San Francisco",
+        "bedrooms": 3,
+        "amenities": ["Pool", "Gym"]
+    },
+    {
+        "id": 3,
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/04/07012923/elevated-house-design3.jpg",
+        "title": "Luxury villa in Texas",
+        "description": "A luxury villa with a beautiful view in Beach.",
+        "price": 400,
+        "location": "Audbery",
+        "bedrooms": 5,
+        "amenities": ["Pool", "Gym"]
+    },
+    {
+        "id": 4,
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/04/07012918/elevated-house-design2.jpg",
+        "title": "Luxury Condo in New Jersey",
+        "description": "A luxury condo with a beautiful view in New Jersey.",
+        "price": 250,
+        "location": "New Jersey",
+        "bedrooms": 4,
+        "amenities": ["Pool", "Gym"]
+    },
+    {
+        "id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuU99oeCGHRXvx7KoxKaACyBkeHc8vZ3L0N78aZbub4FaygfxFtzAUJ_XUg&s",
+        "title": "Luxury Condo in Illinois",
+        "description": "A luxury condo with a beautiful view in Illinois.",
+        "price": 700,
+        "location": "Illinois",
+        "bedrooms": 8,
+        "amenities": ["Pool", "Gym"]
+    },
+    {
+        "id": 6,
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/04/07012911/elevated-house-design1.jpg",
+        "title": "Luxury Condo in New Mexico",
+        "description": "A luxury condo with a beautiful view in New Mexico.",
+        "price": 400,
+        "location": "New Mexico",
+        "bedrooms": 7,
+        "amenities": ["Pool", "Gym"]
+    }
+    
+]

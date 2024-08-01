@@ -1,0 +1,23 @@
+.promotional-offers {
+  padding: 20px;
+  background-color: rgba(202, 201, 148, 0.788);
+  border-radius: 8px;
+}
+
+.offer {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.offer h3 {
+  margin-top: 0;
+  color: #007BFF;
+}
+
+.offer p {
+  margin: 10px 0;
+  font-size: 1em;
+}

@@ -1,0 +1,23 @@
+
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  margin-top: 20px;
+  background-color: rgba(255, 228, 196, 0.788);
+}
+
+.content > * {
+  flex: 1;
+}
+
+.cart-con{
+  background-color: #a6cae7ab;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}

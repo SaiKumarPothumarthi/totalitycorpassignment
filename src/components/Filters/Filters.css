@@ -1,0 +1,81 @@
+.filters {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #add8e6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+  }
+  
+  .filters h2 {
+    margin-bottom: 20px;
+  }
+  
+  .filters label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .filters select,
+  .filters input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  /* .filters button {
+    padding: 10px 20px; 
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } */
+  .filter-button{
+    font-weight: 600;
+    font-size: 12px;
+    font-family:  sans-serif;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    height: 30px;
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .filter-icon{
+    font-size: 12px;
+    margin-left: 3px;
+  }
+  
+  .filter-button:hover {
+    background-color: #2239be;
+    color: #ffffff;
+  }
+  .drop-down{
+    margin-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    
+  }
+  .drop-down:hover{
+    cursor: pointer;
+  }
+  .number-input{
+    margin-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+  }
